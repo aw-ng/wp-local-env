@@ -1,5 +1,5 @@
 {
-  "name": "badasswp/wp-local-env",
+  "name": "aw-ng/wp-local-env",
   "description": "Local development environment for our plugins.",
   "license": "proprietary",
   "type": "project",
@@ -16,21 +16,21 @@
   },
   "require": {
     "composer/installers": "^1.6",
-    "badasswp/ai-plus-block-editor": "*",
-    "badasswp/image-converter-webp": "*",
-    "badasswp/search-replace-for-block-editor": "*",
-    "badasswp/convert-blocks-to-json": "*",
-    "badasswp/trash-post-in-block-editor": "*",
-    "badasswp/sql-to-cpt": "*",
-    "badasswp/make-post-dirty": "*",
-    "badasswp/manage-block-template": "*",
-    "badasswp/addon-for-post-meta-translation-using-deepl": "*",
-    "badasswp/redirect-duplicate-posts": "*",
-    "badasswp/display-site-notification-bar": "*",
-    "badasswp/ping-me-on-slack": "*",
-    "badasswp/create-product-on-image-upload": "*",
-    "badasswp/watermark-my-images": "*",
-    "badasswp/pending-order-bot": "*"
+    "aw-ng/ai-plus-block-editor": "*",
+    "aw-ng/image-converter-webp": "*",
+    "aw-ng/search-replace-for-block-editor": "*",
+    "aw-ng/convert-blocks-to-json": "*",
+    "aw-ng/trash-post-in-block-editor": "*",
+    "aw-ng/sql-to-cpt": "*",
+    "aw-ng/make-post-dirty": "*",
+    "aw-ng/manage-block-template": "*",
+    "aw-ng/addon-for-post-meta-translation-using-deepl": "*",
+    "aw-ng/redirect-duplicate-posts": "*",
+    "aw-ng/display-site-notification-bar": "*",
+    "aw-ng/ping-me-on-slack": "*",
+    "aw-ng/create-product-on-image-upload": "*",
+    "aw-ng/watermark-my-images": "*",
+    "aw-ng/pending-order-bot": "*"
   },
   "require-dev": {
     "wpackagist-plugin/query-monitor": "^3.17.0",
@@ -47,63 +47,63 @@
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/ai-plus-block-editor.git"
+      "url": "git@github.com:aw-ng/ai-plus-block-editor.git"
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/image-converter-webp.git"
+      "url": "git@github.com:aw-ng/image-converter-webp.git"
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/search-replace-for-block-editor.git"
+      "url": "git@github.com:aw-ng/search-replace-for-block-editor.git"
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/convert-blocks-to-json.git"
+      "url": "git@github.com:aw-ng/convert-blocks-to-json.git"
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/trash-post-in-block-editor.git"
+      "url": "git@github.com:aw-ng/trash-post-in-block-editor.git"
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/sql-to-cpt.git"
+      "url": "git@github.com:aw-ng/sql-to-cpt.git"
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/make-post-dirty.git"
+      "url": "git@github.com:aw-ng/make-post-dirty.git"
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/manage-block-template.git"
+      "url": "git@github.com:aw-ng/manage-block-template.git"
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/addon-for-post-meta-translation-using-deepl.git"
+      "url": "git@github.com:aw-ng/addon-for-post-meta-translation-using-deepl.git"
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/redirect-duplicate-posts.git"
+      "url": "git@github.com:aw-ng/redirect-duplicate-posts.git"
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/display-site-notification-bar.git"
+      "url": "git@github.com:aw-ng/display-site-notification-bar.git"
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/ping-me-on-slack.git"
+      "url": "git@github.com:aw-ng/ping-me-on-slack.git"
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/create-product-on-image-upload.git"
+      "url": "git@github.com:aw-ng/create-product-on-image-upload.git"
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/watermark-my-images.git"
+      "url": "git@github.com:aw-ng/watermark-my-images.git"
     },
     {
       "type": "git",
-      "url": "git@github.com:badasswp/pending-order-bot.git"
+      "url": "git@github.com:aw-ng/pending-order-bot.git"
     }
   ],
   "extra": {
