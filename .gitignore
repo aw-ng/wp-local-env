@@ -4,6 +4,10 @@ node_modules
 /plugins
 /themes
 
+# macOS system files
+.DS_Store
+Thumbs.db
+
 # Ignore Auto-Generated Files #
 ###############################
 composer.lock
